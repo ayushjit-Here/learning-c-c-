@@ -14,3 +14,6 @@ after mofifying(creating or editing a new file) something it will show 4 status:
 after knowing the poper status u can add then commit
     git add <file name> / git add . (will add all)
     git commit -m "add some message" ( use '#' to keep it clear)
+
+after commiting use push to add t to your remote repo:
+    git push origin main
